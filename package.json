@@ -1,14 +1,15 @@
 {
-  "name": "giorno",
-  "version": "1.0.0",
-  "description": "a library for semantic dates",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "Simone Gentili <sensorario@gmail.com>",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^23.2.0"
-  }
+    "name": "giorno",
+    "version": "1.0.0",
+    "description": "a library for semantic dates",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Simone Gentili <sensorario@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^23.2.0",
+        "merge": ">=1.2.1"
+    }
 }
